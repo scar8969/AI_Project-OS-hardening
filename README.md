@@ -24,7 +24,7 @@ and Linux systems following industry best practices and compliance frameworks
 ## Canonical implementation
 
 The working hardening engine lives at
-**[scar8969/PS232_secutity-hard](https://github.com/scar8969/PS232_secutity-hard)**:
+**[scar8969/security-hardening-tool](https://github.com/scar8969/security-hardening-tool)**:
 
 - Windows (10/11), Ubuntu, CentOS hardening modules
 - Basic / Moderate / Strict security levels
